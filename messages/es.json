@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "howItWorks": "Cómo funciona",
+    "features": "Funcionalidades",
+    "pricing": "Precios",
+    "faq": "Preguntas frecuentes",
+    "cta": "Añadir a Shopify"
+  },
+  "hero": {
+    "badge": "Usado por comerciantes de Shopify",
+    "headline": "Deja de perder ingresos por pagos de suscripción fallidos",
+    "subheadline": "SubGuard detecta, reintenta y recupera automáticamente los cobros fallidos — para que conserves a tus suscriptores sin mover un dedo.",
+    "cta": "Añadir a Shopify — Es gratis",
+    "ctaSecondary": "Descubre cómo funciona",
+    "dashTotalFailed": "Total fallidos",
+    "dashRecovered": "Recuperados",
+    "dashRecoveryRate": "Tasa de recuperación",
+    "dashRevenueSaved": "Ingresos recuperados"
+  },
+  "socialProof": {
+    "compatible": "Compatible con las principales apps de suscripción",
+    "stat": "Funciona con más de 50.000 tiendas Shopify con suscripciones"
+  },
+  "problem": {
+    "headline": "Cada mes, los pagos fallan en silencio",
+    "pain1Title": "Los pagos fallidos pasan desapercibidos",
+    "pain1Desc": "La mayoría de los comerciantes no saben que un pago falló hasta que el cliente cancela.",
+    "pain2Title": "Los ingresos desaparecen",
+    "pain2Desc": "Media del sector: entre el 6 y el 9% de las suscripciones fallan cada mes por problemas de pago.",
+    "pain3Title": "La recuperación manual es agotadora",
+    "pain3Desc": "Perseguir a los clientes uno por uno no es escalable.",
+    "stat": "600.000 M$ perdidos anualmente en pagos fallidos a nivel global"
+  },
+  "howItWorks": {
+    "headline": "Configúralo en 5 minutos. Recupera ingresos para siempre.",
+    "step1Title": "Instala y conecta",
+    "step1Desc": "Instala SubGuard desde la Shopify App Store. No necesitas configurar nada — se conecta automáticamente a tu app de suscripción (Appstle, ReCharge, Seal o Bold).",
+    "step2Title": "Detección automática",
+    "step2Desc": "Cuando un pago de suscripción falla, SubGuard lo detecta en menos de 60 segundos a través de webhooks de Shopify e inicia inmediatamente una secuencia de reintento inteligente.",
+    "step3Title": "Recupera y notifica",
+    "step3Desc": "SubGuard reintenta el cobro en intervalos inteligentes (Día 1, 3, 7, 14). Envía emails de recuperación a los clientes. Solo pagas cuando recuperamos ingresos."
+  },
+  "features": {
+    "headline": "Todo lo que necesitas para frenar la pérdida de clientes",
+    "feat1Title": "Detección instantánea",
+    "feat1Desc": "Detecta pagos fallidos en menos de 60 segundos a través de webhooks de Shopify. Sin sondeos, sin retrasos.",
+    "feat2Title": "Motor de reintentos inteligente",
+    "feat2Desc": "Intervalos de reintento configurables con retroceso exponencial. Por defecto: Día 1, 3, 7, 14. Ajústalo a tus necesidades.",
+    "feat3Title": "Emails de recuperación",
+    "feat3Desc": "Emails automatizados y personalizados con tu marca, enviados a los clientes cuando un pago falla y cuando se recupera.",
+    "feat4Title": "Panel en tiempo real",
+    "feat4Desc": "Consulta todos los pagos fallidos, el estado de los reintentos, la tasa de recuperación y los ingresos recuperados — actualizado en directo en tu Shopify Admin.",
+    "compatibleTitle": "Apps compatibles"
+  },
+  "pricing": {
+    "headline": "Instalación gratuita. Paga solo cuando recuperes.",
+    "plan": "Performance",
+    "price": "Instalación gratuita",
+    "commission": "+ 3% de los ingresos recuperados",
+    "explanation": "No pagas nada hasta que SubGuard recupere un pago fallido. Nuestro éxito está alineado con el tuyo.",
+    "feature1": "Detección ilimitada de pagos fallidos",
+    "feature2": "Motor de reintentos automático (hasta 14 días)",
+    "feature3": "Emails de recuperación para clientes",
+    "feature4": "Panel en tiempo real y analíticas",
+    "feature5": "Compatible con Appstle, ReCharge, Seal y Bold",
+    "feature6": "Configuración en menos de 5 minutos",
+    "cta": "Añadir a Shopify — Gratis",
+    "example": "Ejemplo: Si SubGuard recupera 10.000 $/mes en pagos fallidos, pagas 300 $. Los otros 9.700 $ son tuyos."
+  },
+  "faq": {
+    "headline": "Preguntas frecuentes",
+    "q1": "¿SubGuard funciona con mi app de suscripción?",
+    "a1": "Sí. SubGuard es compatible con Appstle, ReCharge, Seal Subscriptions y Bold Subscriptions — las cuatro apps de suscripción más populares en Shopify.",
+    "q2": "¿Cómo funciona la comisión del 3%?",
+    "a2": "Solo pagas cuando SubGuard recupera con éxito un pago fallido. Si se recupera un pago de 100 $, la comisión de SubGuard es de 3 $. Si no se recupera nada, no pagas nada.",
+    "q3": "¿Con qué rapidez detecta SubGuard los pagos fallidos?",
+    "a3": "SubGuard detecta los pagos fallidos en menos de 60 segundos a través de los webhooks nativos de Shopify — sin sondeos ni comprobaciones manuales.",
+    "q4": "¿Sabrán los clientes que el email lo envió SubGuard?",
+    "a4": "Los emails se envían desde tu dominio verificado y con la marca de tu tienda. Los clientes lo perciben como parte de tu comunicación habitual.",
+    "q5": "¿Están seguros los datos de mis clientes?",
+    "a5": "Sí. SubGuard solo accede a los datos necesarios para procesar los reintentos de pago. Nunca almacenamos números de tarjeta completos y cumplimos con los requisitos de seguridad de Shopify.",
+    "q6": "¿Qué pasa después de 4 intentos de cobro?",
+    "a6": "Tras el último reintento (Día 14 por defecto), el fallo se marca como irrecuperable y se te notifica. Puedes configurar el número de reintentos en Ajustes."
+  },
+  "finalCta": {
+    "headline": "Empieza a recuperar ingresos perdidos hoy",
+    "subheadline": "Instalación gratuita. Sin riesgo. Sin complicaciones.",
+    "cta": "Añadir a Shopify — Es gratis"
+  },
+  "footer": {
+    "copyright": "© 2026 Navas Medisafe SL. Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "support": "Soporte",
+    "appStore": "Shopify App Store",
+    "builtFor": "Hecho para comerciantes de Shopify en todo el mundo"
+  }
+}

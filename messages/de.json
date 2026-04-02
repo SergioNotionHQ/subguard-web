@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "howItWorks": "So funktioniert's",
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "faq": "FAQ",
+    "cta": "Zu Shopify hinzufügen"
+  },
+  "hero": {
+    "badge": "Vertraut von Shopify-Händlern",
+    "headline": "Verlieren Sie keinen Umsatz mehr durch fehlgeschlagene Abo-Zahlungen",
+    "subheadline": "SubGuard erkennt, wiederholt und stellt fehlgeschlagene Zahlungsversuche automatisch wieder her — damit Sie Ihre Abonnenten behalten, ohne einen Finger zu rühren.",
+    "cta": "Zu Shopify hinzufügen — Kostenlos",
+    "ctaSecondary": "So funktioniert's",
+    "dashTotalFailed": "Fehlgeschlagen",
+    "dashRecovered": "Wiederhergestellt",
+    "dashRecoveryRate": "Erfolgsquote",
+    "dashRevenueSaved": "Gesicherter Umsatz"
+  },
+  "socialProof": {
+    "compatible": "Kompatibel mit den führenden Abo-Apps",
+    "stat": "Funktioniert mit über 50.000 Shopify-Abo-Shops"
+  },
+  "problem": {
+    "headline": "Jeden Monat scheitern Zahlungen unbemerkt",
+    "pain1Title": "Fehlgeschlagene Zahlungen bleiben unbemerkt",
+    "pain1Desc": "Die meisten Händler erfahren erst von einer fehlgeschlagenen Zahlung, wenn der Kunde kündigt.",
+    "pain2Title": "Umsatz geht verloren",
+    "pain2Desc": "Branchendurchschnitt: 6–9 % der Abonnements scheitern monatlich an Zahlungsproblemen.",
+    "pain3Title": "Manuelle Wiederherstellung ist mühsam",
+    "pain3Desc": "Kunden einzeln nachzuverfolgen ist nicht skalierbar.",
+    "stat": "600 Mrd. $ gehen jährlich weltweit durch fehlgeschlagene Zahlungen verloren"
+  },
+  "howItWorks": {
+    "headline": "In 5 Minuten eingerichtet. Umsatz dauerhaft zurückgewinnen.",
+    "step1Title": "Installieren & Verbinden",
+    "step1Desc": "Installieren Sie SubGuard aus dem Shopify App Store. Keine Konfiguration nötig — die App verbindet sich automatisch mit Ihrer Abo-App (Appstle, ReCharge, Seal oder Bold).",
+    "step2Title": "Automatische Erkennung",
+    "step2Desc": "Wenn eine Abo-Zahlung fehlschlägt, erkennt SubGuard dies in unter 60 Sekunden über Shopify-Webhooks und startet sofort eine intelligente Wiederholungssequenz.",
+    "step3Title": "Wiederherstellen & Benachrichtigen",
+    "step3Desc": "SubGuard wiederholt die Zahlung in intelligenten Intervallen (Tag 1, 3, 7, 14). Sendet Wiederherstellungs-E-Mails an Kunden. Sie zahlen nur, wenn wir Umsatz zurückgewinnen."
+  },
+  "features": {
+    "headline": "Alles, was Sie brauchen, um Abwanderung zu stoppen",
+    "feat1Title": "Sofortige Erkennung",
+    "feat1Desc": "Erkennt fehlgeschlagene Zahlungen in unter 60 Sekunden über Shopify-Webhooks. Kein Polling, keine Verzögerungen.",
+    "feat2Title": "Intelligente Wiederholungs-Engine",
+    "feat2Desc": "Konfigurierbare Wiederholungsintervalle mit exponentiellem Backoff. Standard: Tag 1, 3, 7, 14. An Ihre Bedürfnisse anpassbar.",
+    "feat3Title": "Wiederherstellungs-E-Mails",
+    "feat3Desc": "Automatisierte, markengerechte E-Mails an Kunden bei fehlgeschlagener Zahlung und nach erfolgreicher Wiederherstellung.",
+    "feat4Title": "Echtzeit-Dashboard",
+    "feat4Desc": "Sehen Sie alle fehlgeschlagenen Zahlungen, den Wiederholungsstatus, die Erfolgsquote und den gesicherten Umsatz — live aktualisiert in Ihrem Shopify Admin.",
+    "compatibleTitle": "Kompatible Apps"
+  },
+  "pricing": {
+    "headline": "Kostenlos installieren. Zahlen Sie nur bei Erfolg.",
+    "plan": "Performance",
+    "price": "Kostenlos installieren",
+    "commission": "+ 3 % des wiederhergestellten Umsatzes",
+    "explanation": "Sie zahlen nichts, bis SubGuard eine fehlgeschlagene Zahlung wiederherstellt. Unser Erfolg ist an Ihren gekoppelt.",
+    "feature1": "Unbegrenzte Erkennung fehlgeschlagener Zahlungen",
+    "feature2": "Automatische Wiederholungs-Engine (bis zu 14 Tage)",
+    "feature3": "Wiederherstellungs-E-Mails an Kunden",
+    "feature4": "Echtzeit-Dashboard & Analysen",
+    "feature5": "Kompatibel mit Appstle, ReCharge, Seal & Bold",
+    "feature6": "Einrichtung in unter 5 Minuten",
+    "cta": "Zu Shopify hinzufügen — Kostenlos",
+    "example": "Beispiel: Wenn SubGuard 10.000 $/Monat an fehlgeschlagenen Zahlungen wiederherstellt, zahlen Sie 300 $. Die anderen 9.700 $ gehören Ihnen."
+  },
+  "faq": {
+    "headline": "Häufig gestellte Fragen",
+    "q1": "Funktioniert SubGuard mit meiner Abo-App?",
+    "a1": "Ja. SubGuard ist kompatibel mit Appstle, ReCharge, Seal Subscriptions und Bold Subscriptions — den vier beliebtesten Abo-Apps auf Shopify.",
+    "q2": "Wie funktioniert die 3 %-Provision?",
+    "a2": "Sie zahlen nur, wenn SubGuard eine fehlgeschlagene Zahlung erfolgreich wiederherstellt. Bei einer wiederhergestellten Zahlung von 100 $ beträgt die SubGuard-Gebühr 3 $. Wird nichts wiederhergestellt, zahlen Sie nichts.",
+    "q3": "Wie schnell erkennt SubGuard fehlgeschlagene Zahlungen?",
+    "a3": "SubGuard erkennt fehlgeschlagene Zahlungen in unter 60 Sekunden über Shopifys native Webhooks — kein Polling oder manuelle Prüfungen nötig.",
+    "q4": "Erfahren Kunden, dass SubGuard die E-Mail gesendet hat?",
+    "a4": "E-Mails werden von Ihrer verifizierten Domain gesendet und mit Ihrem Shop-Namen gebrandet. Kunden nehmen sie als Teil Ihrer normalen Kommunikation wahr.",
+    "q5": "Sind meine Kundendaten sicher?",
+    "a5": "Ja. SubGuard greift nur auf die Daten zu, die für die Zahlungswiederholung erforderlich sind. Wir speichern niemals vollständige Kartennummern und erfüllen die Sicherheitsanforderungen von Shopify.",
+    "q6": "Was passiert nach 4 Wiederholungsversuchen?",
+    "a6": "Nach dem letzten Versuch (standardmäßig Tag 14) wird die Zahlung als nicht wiederherstellbar markiert und Sie werden benachrichtigt. Die Anzahl der Versuche können Sie in den Einstellungen konfigurieren."
+  },
+  "finalCta": {
+    "headline": "Beginnen Sie noch heute, verlorenen Umsatz zurückzugewinnen",
+    "subheadline": "Kostenlos installieren. Kein Risiko. Keine komplizierte Einrichtung.",
+    "cta": "Zu Shopify hinzufügen — Kostenlos"
+  },
+  "footer": {
+    "copyright": "© 2026 Navas Medisafe SL. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "support": "Support",
+    "appStore": "Shopify App Store",
+    "builtFor": "Entwickelt für Shopify-Händler weltweit"
+  }
+}

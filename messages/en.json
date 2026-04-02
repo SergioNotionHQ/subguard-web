@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "howItWorks": "How it works",
+    "features": "Features",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "cta": "Add to Shopify"
+  },
+  "hero": {
+    "badge": "Trusted by Shopify merchants",
+    "headline": "Stop losing revenue to failed subscription payments",
+    "subheadline": "SubGuard automatically detects, retries, and recovers failed billing attempts — so you keep your subscribers without lifting a finger.",
+    "cta": "Add to Shopify — It's Free",
+    "ctaSecondary": "See how it works",
+    "dashTotalFailed": "Total Failed",
+    "dashRecovered": "Recovered",
+    "dashRecoveryRate": "Recovery Rate",
+    "dashRevenueSaved": "Revenue Saved"
+  },
+  "socialProof": {
+    "compatible": "Compatible with the leading subscription apps",
+    "stat": "Works with 50,000+ Shopify subscription stores"
+  },
+  "problem": {
+    "headline": "Every month, payments fail silently",
+    "pain1Title": "Failed payments go unnoticed",
+    "pain1Desc": "Most merchants don't know a payment failed until the customer cancels.",
+    "pain2Title": "Revenue disappears",
+    "pain2Desc": "Industry average: 6-9% of subscriptions fail due to payment issues each month.",
+    "pain3Title": "Manual recovery is exhausting",
+    "pain3Desc": "Chasing customers individually doesn't scale.",
+    "stat": "$600B lost annually to failed payments globally"
+  },
+  "howItWorks": {
+    "headline": "Set up in 5 minutes. Recover revenue forever.",
+    "step1Title": "Install & Connect",
+    "step1Desc": "Install SubGuard from the Shopify App Store. No configuration needed — it automatically connects to your subscription app (Appstle, ReCharge, Seal, or Bold).",
+    "step2Title": "Automatic Detection",
+    "step2Desc": "When a subscription payment fails, SubGuard detects it in under 60 seconds via Shopify webhooks and immediately queues a smart retry sequence.",
+    "step3Title": "Recover & Notify",
+    "step3Desc": "SubGuard retries the payment at intelligent intervals (Day 1, 3, 7, 14). Sends recovery emails to customers. You only pay when we recover revenue."
+  },
+  "features": {
+    "headline": "Everything you need to stop churn",
+    "feat1Title": "Instant Detection",
+    "feat1Desc": "Detects failed payments in under 60 seconds via Shopify webhooks. No polling, no delays.",
+    "feat2Title": "Smart Retry Engine",
+    "feat2Desc": "Configurable retry intervals with exponential backoff. Default: Day 1, 3, 7, 14. Adjust to your needs.",
+    "feat3Title": "Recovery Emails",
+    "feat3Desc": "Automated, branded emails sent to customers when payment fails and when it recovers.",
+    "feat4Title": "Real-time Dashboard",
+    "feat4Desc": "See all failed payments, retry status, recovery rate, and revenue saved — updated live in your Shopify Admin.",
+    "compatibleTitle": "Compatible Apps"
+  },
+  "pricing": {
+    "headline": "Free to install. Pay only when you recover.",
+    "plan": "Performance",
+    "price": "Free to install",
+    "commission": "+ 3% of recovered revenue",
+    "explanation": "You pay nothing until SubGuard recovers a failed payment. Our success is aligned with yours.",
+    "feature1": "Unlimited failed payment detection",
+    "feature2": "Automatic retry engine (up to 14 days)",
+    "feature3": "Customer recovery emails",
+    "feature4": "Real-time dashboard & analytics",
+    "feature5": "Compatible with Appstle, ReCharge, Seal & Bold",
+    "feature6": "Setup in under 5 minutes",
+    "cta": "Add to Shopify — Free",
+    "example": "Example: If SubGuard recovers $10,000/month in failed payments, you pay $300. The other $9,700 is yours."
+  },
+  "faq": {
+    "headline": "Frequently asked questions",
+    "q1": "Does SubGuard work with my subscription app?",
+    "a1": "Yes. SubGuard is compatible with Appstle, ReCharge, Seal Subscriptions, and Bold Subscriptions — the four most popular subscription apps on Shopify.",
+    "q2": "How does the 3% commission work?",
+    "a2": "You only pay when SubGuard successfully recovers a failed payment. If a payment of $100 is recovered, SubGuard's fee is $3. If nothing is recovered, you pay nothing.",
+    "q3": "How quickly does SubGuard detect failed payments?",
+    "a3": "SubGuard detects failed payments in under 60 seconds via Shopify's native webhooks — no polling or manual checks required.",
+    "q4": "Will customers know SubGuard sent the email?",
+    "a4": "Emails are sent from your verified domain and branded with your store name. Customers see it as part of your normal communication.",
+    "q5": "Is my customer data safe?",
+    "a5": "Yes. SubGuard only accesses the data required to process payment retries. We never store full card numbers and comply with Shopify's security requirements.",
+    "q6": "What happens after 4 retry attempts?",
+    "a6": "After the final retry (Day 14 by default), the failure is marked as unrecoverable and you're notified. You can configure the number of retries in Settings."
+  },
+  "finalCta": {
+    "headline": "Start recovering lost revenue today",
+    "subheadline": "Free to install. No risk. No setup complexity.",
+    "cta": "Add to Shopify — It's Free"
+  },
+  "footer": {
+    "copyright": "© 2026 Navas Medisafe SL. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "support": "Support",
+    "appStore": "Shopify App Store",
+    "builtFor": "Built for Shopify merchants worldwide"
+  }
+}

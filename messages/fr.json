@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "howItWorks": "Comment ça marche",
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "faq": "FAQ",
+    "cta": "Ajouter à Shopify"
+  },
+  "hero": {
+    "badge": "Approuvé par les marchands Shopify",
+    "headline": "Arrêtez de perdre du chiffre d'affaires à cause des paiements d'abonnement échoués",
+    "subheadline": "SubGuard détecte, relance et récupère automatiquement les tentatives de facturation échouées — pour que vous gardiez vos abonnés sans lever le petit doigt.",
+    "cta": "Ajouter à Shopify — C'est gratuit",
+    "ctaSecondary": "Voir comment ça marche",
+    "dashTotalFailed": "Total échoués",
+    "dashRecovered": "Récupérés",
+    "dashRecoveryRate": "Taux de récupération",
+    "dashRevenueSaved": "Revenus sauvés"
+  },
+  "socialProof": {
+    "compatible": "Compatible avec les principales apps d'abonnement",
+    "stat": "Fonctionne avec plus de 50 000 boutiques Shopify à abonnement"
+  },
+  "problem": {
+    "headline": "Chaque mois, des paiements échouent en silence",
+    "pain1Title": "Les paiements échoués passent inaperçus",
+    "pain1Desc": "La plupart des marchands ne savent pas qu'un paiement a échoué jusqu'à ce que le client se désabonne.",
+    "pain2Title": "Le chiffre d'affaires disparaît",
+    "pain2Desc": "En moyenne, 6 à 9 % des abonnements échouent chaque mois à cause de problèmes de paiement.",
+    "pain3Title": "La récupération manuelle est épuisante",
+    "pain3Desc": "Relancer les clients un par un n'est pas viable à grande échelle.",
+    "stat": "600 milliards $ perdus chaque année à cause des paiements échoués dans le monde"
+  },
+  "howItWorks": {
+    "headline": "Installation en 5 minutes. Récupération de revenus pour toujours.",
+    "step1Title": "Installer et connecter",
+    "step1Desc": "Installez SubGuard depuis le Shopify App Store. Aucune configuration nécessaire — il se connecte automatiquement à votre app d'abonnement (Appstle, ReCharge, Seal ou Bold).",
+    "step2Title": "Détection automatique",
+    "step2Desc": "Lorsqu'un paiement d'abonnement échoue, SubGuard le détecte en moins de 60 secondes via les webhooks Shopify et lance immédiatement une séquence de relance intelligente.",
+    "step3Title": "Récupérer et notifier",
+    "step3Desc": "SubGuard relance le paiement à des intervalles intelligents (Jour 1, 3, 7, 14). Envoie des e-mails de récupération aux clients. Vous ne payez que lorsque nous récupérons du revenu."
+  },
+  "features": {
+    "headline": "Tout ce qu'il vous faut pour stopper le churn",
+    "feat1Title": "Détection instantanée",
+    "feat1Desc": "Détecte les paiements échoués en moins de 60 secondes via les webhooks Shopify. Pas de polling, pas de délai.",
+    "feat2Title": "Moteur de relance intelligent",
+    "feat2Desc": "Intervalles de relance configurables avec backoff exponentiel. Par défaut : Jour 1, 3, 7, 14. Ajustez selon vos besoins.",
+    "feat3Title": "E-mails de récupération",
+    "feat3Desc": "E-mails automatiques et personnalisés envoyés aux clients lorsqu'un paiement échoue et lorsqu'il est récupéré.",
+    "feat4Title": "Tableau de bord en temps réel",
+    "feat4Desc": "Visualisez tous les paiements échoués, le statut des relances, le taux de récupération et les revenus sauvés — mis à jour en direct dans votre admin Shopify.",
+    "compatibleTitle": "Apps compatibles"
+  },
+  "pricing": {
+    "headline": "Gratuit à installer. Payez uniquement quand vous récupérez.",
+    "plan": "Performance",
+    "price": "Installation gratuite",
+    "commission": "+ 3 % des revenus récupérés",
+    "explanation": "Vous ne payez rien tant que SubGuard n'a pas récupéré un paiement échoué. Notre succès est aligné avec le vôtre.",
+    "feature1": "Détection illimitée des paiements échoués",
+    "feature2": "Moteur de relance automatique (jusqu'à 14 jours)",
+    "feature3": "E-mails de récupération client",
+    "feature4": "Tableau de bord et analytiques en temps réel",
+    "feature5": "Compatible avec Appstle, ReCharge, Seal et Bold",
+    "feature6": "Installation en moins de 5 minutes",
+    "cta": "Ajouter à Shopify — Gratuit",
+    "example": "Exemple : si SubGuard récupère 10 000 $/mois de paiements échoués, vous payez 300 $. Les 9 700 $ restants sont à vous."
+  },
+  "faq": {
+    "headline": "Questions fréquentes",
+    "q1": "SubGuard fonctionne-t-il avec mon app d'abonnement ?",
+    "a1": "Oui. SubGuard est compatible avec Appstle, ReCharge, Seal Subscriptions et Bold Subscriptions — les quatre apps d'abonnement les plus populaires sur Shopify.",
+    "q2": "Comment fonctionne la commission de 3 % ?",
+    "a2": "Vous ne payez que lorsque SubGuard récupère avec succès un paiement échoué. Si un paiement de 100 $ est récupéré, les frais de SubGuard sont de 3 $. Si rien n'est récupéré, vous ne payez rien.",
+    "q3": "En combien de temps SubGuard détecte-t-il les paiements échoués ?",
+    "a3": "SubGuard détecte les paiements échoués en moins de 60 secondes via les webhooks natifs de Shopify — aucun polling ni vérification manuelle nécessaire.",
+    "q4": "Les clients sauront-ils que l'e-mail a été envoyé par SubGuard ?",
+    "a4": "Les e-mails sont envoyés depuis votre domaine vérifié et portent le nom de votre boutique. Les clients les perçoivent comme faisant partie de votre communication habituelle.",
+    "q5": "Les données de mes clients sont-elles en sécurité ?",
+    "a5": "Oui. SubGuard n'accède qu'aux données nécessaires au traitement des relances de paiement. Nous ne stockons jamais les numéros de carte complets et respectons les exigences de sécurité de Shopify.",
+    "q6": "Que se passe-t-il après 4 tentatives de relance ?",
+    "a6": "Après la dernière tentative (Jour 14 par défaut), l'échec est marqué comme irrécupérable et vous êtes notifié. Vous pouvez configurer le nombre de tentatives dans les Paramètres."
+  },
+  "finalCta": {
+    "headline": "Commencez à récupérer vos revenus perdus dès aujourd'hui",
+    "subheadline": "Installation gratuite. Aucun risque. Aucune complexité de mise en place.",
+    "cta": "Ajouter à Shopify — C'est gratuit"
+  },
+  "footer": {
+    "copyright": "© 2026 Navas Medisafe SL. Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "support": "Support",
+    "appStore": "Shopify App Store",
+    "builtFor": "Conçu pour les marchands Shopify du monde entier"
+  }
+}
